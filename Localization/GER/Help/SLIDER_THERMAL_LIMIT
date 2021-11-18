@@ -1,0 +1,8 @@
+Temperatur Limit
+Ermöglicht die Anpassung der Master GPU Temperatur-Grenze, wenn es von der Grafikkarte unterstützt wird.
+
+Hinweis:
+- Wenn die Option Synchronisierung der Einstellung mit vergleichbaren Grafikprozessor gewählt wurde, wird jede Änderung auch auf alle vergleichbaren im System vorhandenen GPUs gespiegelt.
+- Wenn Sie den Schieberegler fokussieren, können Sie mit den Cursor-Tasten auf der Tastatur die Grenzen zur Feinabstimmung einstellen. 
+- Sie können auch im angrenzenden Eingabefeld direkt einen gewünschten Temperatur-Grenz-Wert eingeben.
+- Sie können die Einblendungen der Tipps und Hinweise  in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

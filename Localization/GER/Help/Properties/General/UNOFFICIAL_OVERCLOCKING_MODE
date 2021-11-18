@@ -1,0 +1,11 @@
+inoffizieller Overclocking-Modus
+Die standardmäßigen Overclocking Grenzen im AMD Catalyst Control Center und in allen Overclocking-Tools welche die Verwendung der offiziellen AMD Overclocking Umsetzung benutzen, sind eher gering und durch das AMD VGA BIOS definiert.
+Der inoffizielle Overclocking-Modus kann ihnen helfen, diese Grenzen zu erweitern, ohne sie im VGA-BIOS zu verändern.
+Jedoch verwendet der inoffizielle Overclocking-Modus eine undokumentierte Schnittstelle im AMD Display-Treibern, die von AMD in keiner Form dokumentiert oder unterstützt wird. Dadurch gibt es zahlreiche nicht gelöste Kompatibilitätsprobleme mit AMDs Strom-Spar-Technologien. Verwenden Sie ihn also nur, wenn Sie mit diesen Kompatibilitätsproblemen vertraut sind und wissen, wie sie zu umgehen sind.
+
+WARNUNG! Verwenden Sie diese Option auf eigene Gefahr! Sowohl MSI und AMD bieten Ihnen keine Unterstützung in jederweder Form, einschließlich Fragen in den Foren.
+
+Hinweis:
+- Diese Option ist nur aktiv, wenn mindestens eine unterstützte AMD Grafikkarte im System installiert ist.
+- Es wird dringend empfohlen, wenn Sie den inoffizieller Overclocking-Modus mit Crossfire-Konfigurationen benutzen, den ULPS Modus zu deaktivieren.
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

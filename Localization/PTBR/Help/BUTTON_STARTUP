@@ -1,0 +1,6 @@
+Aplicar automaticamente na inicialização 
+As configurações atuais de tensão, frequências e velocidade da ventoinha serão automaticamente aplicadas na inicialização do MSI Afterburner. 
+
+Sugestões: 
+- Mantenha pressionada a tecla <Ctrl> imediatamente após fazer logon do Windows para impedir que as configurações sejam aplicadas. 
+- Você pode desativar sugestões em <Interface> na aba das propriedades.

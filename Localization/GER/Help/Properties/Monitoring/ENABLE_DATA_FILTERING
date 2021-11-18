@@ -1,0 +1,9 @@
+Ermögliche Datenfilterung
+Der gleichzeitige Zugriff auf den gleichen Hardwaresensor- (zB GPU-Temperatur-Sensor) wenn mehrere Überwachungssoftware ausgeführt wird, können zum falschen Werten beim auslesen dieses Hardwaresensors führen, und zu abnormalen Spikes in den Kurven führen.
+Das Aktivieren dieser Option verhindert, dass diese abnormen Spikes auftreten.
+Bitte beachten Sie, dass wenn Sie diese Option aktivieren, die eigentlichen Daten Peaks (zB Spitzen GPU-Nutzung) nicht angezeigt werden.
+Auch die Grafik Erneuerung ist bis zu 4 mal höher als die angegebene Verlängerung.
+
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

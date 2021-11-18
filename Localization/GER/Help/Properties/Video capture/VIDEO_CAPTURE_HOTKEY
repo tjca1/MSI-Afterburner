@@ -1,0 +1,8 @@
+Videoaufnahme Schnelltaste.
+Legen Sie hiermit eine Taste fest, welche die Videoaufnahme startet.
+
+Hinweis:
+- Durch das Aktivieren dieser Option wird der OSD Server Prozess gestartet. Der Server bietet zusätzliche Dienste, wie Video-Capture für 3D-Anwendungen und wird nicht entladen, bis die Option ausgeschaltet wird.
+- Einige Tastenkombinationen sind reserviert und können nicht verwendet werden (z. B. <1 5 >...< >...< Strg> + <1 >...< Strg> + <5> + <strg> <D> ) ..
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

@@ -1,0 +1,15 @@
+Video Format.
+Zeigt die Auswahl der möglichen Videoformate an.
+Hier können Sie das Format festlegen, in dem die Bildschirmvideos gespeichert werden sollen.
+
+-unkomprimiert- Das Video ist im RAW-Format ohne Komprimierung codiert. Es wird kein Fremdanbieter-Codec benötigt, um dieses Video in diesem Format abzuspielen.Diese Einstellung benötigt sehr schnelle Festplatten. Bei dieser Aufnahme wird ein hochauflösendes Video in unkomprimierter Form aufgezeichnet. Dabei kann die Framerate der Anzeige rapide sinken, zB: ein unkomprimiertes Video in 1680x1050 Auflösung codiert 30 Bilder pro Sek.. Man sollte eine Festplatte mit einer Bandbreite von min.150MB / s nutzen.
+
+-RTV1 Kompression- Das Video wird im RivaTuner V1 Video-Format kodiert. Die RivaTuner Video-Codec-Installation ist für das Video in diesem Format für die Wiedergabe inklusive erforderlich. Das RivaTuner Video-Format V1 basiert auf den DXT1 Kompressionsalgorithmen welches auf einer festen 6x Komprimierungsrate basiert. Der RTV1 Codierer ist in der Lage, hochauflösende Videos mit hoher Bildrate ohne Belastung der CPU zu kodieren. Dieses Format wird auf Systemen mit einem Single-Core oder Dual-Core-CPUs empfohlen.
+
+-MJPG Kompression- Das Video wird in das Standard-MPJG Format kodiert. Es wird kein Fremdanbieter-Codec benötigt, um dieses Video in diesem Format aufgenommen abzuspielen, Dieses Video sollte auf unterschiedlichen Plattformen und Media-Playern abgespielt werden können.
+MPJG Kompression gibt die besten Kompressionsraten, erfordert aber schnelle Multicore-CPUs für hochauflösende Video-Encoding damit die Framerate nicht sinkt
+Beachten Sie, dass in diesem Format die Ballance zwischen Bildqualität und Kompressionsrate durch Feinabstimmung wichtig ist.
+
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

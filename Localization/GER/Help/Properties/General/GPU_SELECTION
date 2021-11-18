@@ -1,0 +1,8 @@
+Listet die vorhandenen Grafikkarten auf.
+Zeigt eine Liste der vorinstallierten Grafikkarten in Ihrem System und ermöglicht die primäre GPU Wahl.
+Alle Anpassungen, die Sie im Hauptfenster für die primäre Grafikkarte einstellen werden im System angewendet.
+
+Hinweis:
+- Mit dem Übernehmen Button(Apply) werden alle vorgenommenen Einstellungen für die primäre GPU übernommen.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

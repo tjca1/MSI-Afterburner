@@ -1,0 +1,20 @@
+Audio Quellen Typ
+Ermöglicht die Auswahl der Audio-Quelle. Die folgenden Audio-Quelle-Typen sind möglich:
+
+- Automatische Auswahl 
+- wählt automatisch die Audioquelle je nach Betriebssystemeinstellung. 
+In diesem Modus wird der Audio-Stream über das Standard DirectSound-Aufnahme-Gerät unter Windows XP, oder über das WASAPI Wiedergabe-Gerät standardmäßig unter Windows Vista oder neueren BS aufgezeichnet.
+
+- DirectSound Aufnahmegerät 
+- erfasst den Audiostream via DirectSound-Aufnahmegeräte. Unter WindowsXP sind DirectSound-Aufnahmegeräte Hardware-beschleunigt, so bietet dieser Modus die beste Audio-Aufnahme Performance aufgrund von Hardware-Sound-Mixing und Loopback-Aufnahme Umsetzung.
+Allerdings ist DirectSound veraltet und wird seit Windows Vista über WASAPI emuliert , darum ist es empfehlenswert,  die nativen WASAPI Geräte für Audio-Aufnahme unter Windows Vista und neueren BS zu verwenden.
+- WASAPI Playback Gerät 
+- erfasst den Audiostream über WASAPI Abspielgeräte (nur unter Windows Vista oder neuere BS). Im Gegensatz zu DirectSound ermöglicht WASAPI das Abgreifen des rohen Mehrkanal-Audio-Streams, bevor es zu den Audio-Treiber-und Wiedergabegeräten weitergegeben wird. Dies ermöglicht Software-Audio-Treiber-unabhängige Loopback-Aufnahme von Mehrkanal-Audio.
+Bitte nehmen Sie zur Kenntnis, dass dieser Modus inkompatibel mit allen Anwendungen sein kann, welche alternative Hardware-beschleunigte Audio-Schnittstellen wie OpenAL nutzen.
+
+- WASAPI Aufnahmegerät 
+- erfasst Audiostream über WASAPI Aufnahmegeräte (unter Windows Vista oder neuere BS). Im Gegensatz zu DirectSound kann WASAPI unabhängig Ein-und Ausgabe von Audio-Streams erfassen, was Ihnen erlaubt Audio-Streams unabhängig ob sie von Ausgabegeräten(wie z.B. Lautsprecher) und von Eingabegeräten(z.B. Mikrofon) kommen aufzunehmen.
+Sie können, wenn nötig, diesen Modus verwenden um Audio-Streams aus Eingabegeräten aufzunehmen.
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

@@ -1,0 +1,3 @@
+Vorwegaufnahme in Datei
+Ermöglicht den Vorwegaufnahmepuffer in eine temporäre Datei gespeichert zu werden. Dieser Modus eignet sich am besten zur Voraufzeichnung für lange Videos (z.B. 10 Minuten oder mehr von H.264-Video) oder zur Voraufzeichnung von Videos mit niedrigen Kompressionsverhältnis (z.B. verlustfreie Lagarith Video).
+

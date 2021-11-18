@@ -1,0 +1,7 @@
+Erzwinge Lüftergeschwindigkeits-Update zu jedem Zeitraum
+Standardmäßig  wird die Lüftergeschwindigkeit vom automatischen Lüftersteuerungs-Software Modul nur dann verändert, wenn die Lüftergeschwindigkeit durch Temperatur verändert werden soll.
+Dies minimiert die durch die Lüftersteuerung verbundenen  CPU-Performance-Einbußen, da die Programmierung einer neuen Lüftergeschwindigkeit Leistung benötigt. Jedoch können einige verbuggte Display-Treiber die Lüftersteuerung  in regelmäßigen Abständen behindern und zu unerwarteten Lüftergeschwindigkeits-Veränderungen, bevor sich die GPU-Temperatur verändert, führen.
+In diesem Fall können Sie diese Option aktivieren, um die Lüfterdrehzahl zu zwingen, zu jeden Zeitraum aktualisiert zu werden.
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

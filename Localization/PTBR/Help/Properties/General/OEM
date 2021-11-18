@@ -1,0 +1,9 @@
+Modos de controle de tensão 
+Permite selecionar um dos seguintes modos de controle de tensão: 
+- Referência - Apenas placas de vídeo e controladores de tensão de referência são suportados. 
+- MSI Padrão - Tanto os modelos de referência quando as placas de vídeo da série especal MSI e seus controladores de tensão são suportados. 
+- MSI avançado - Tanto os modelos de referência quando as placas de vídeo da série especal MSI e seus controladores de tensão são suportadas, assim como uma faixa de controle de tensão estendida disponível em alguns modelos. 
+- Outros - modo suprido pela comunidade que fornece suporte a controladores de tensão para algums modelos de placas de vídeo customizadas de terceiros fabricantes. Se sua placa de vídeo customizada estiver equipada com um controlador de tensão que ainda não é suportado por este modo, você pode tentar adicioná-lo ao banco de dados de hardware de outros fabricantes. Consulte a documentação SDK do %PRODUCTNAME% para obter informações mais detalhadas. Observe que este modo não possui nenhum suporte da MSI, utilize-o por sua conta e risco.
+
+Sugestões: 
+- Você pode desativar sugestões em <interface> na guia das propriedades.

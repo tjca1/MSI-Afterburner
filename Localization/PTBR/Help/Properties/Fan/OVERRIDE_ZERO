@@ -1,0 +1,6 @@
+Substituir velocidade zero por curva do hardware
+Algumas placas de vídeo não permitem uma faixa total de ajuste manual da velocidade da ventoinha e impõem restrições nas velocidades mínima e/ou máxima permitidas. Neste caso, os limites mínimo e máximo de velocidades da ventoinha permitidos são visualizados no editor como linhas horizontais pontilhadas. A tentativa de definir a velocidade além dos limites resultará na redução da velocidade da ventoinha para os valores mínimo/máximo permitidos. Neste caso, você não pode emular o modo de parada total da ventoinha na curva de velocidades, simplesmente definindo o valor mínimo para zero.
+No entanto, você pode habilitar esta opção para substituir a zona de velocidade zero da ventoinha na curva de velocidades por software por uma curva de velocidades padrão controlada pelo hadrware. Dessa forma, você poderá manter o modo de parada da ventoinha, se suportado nativamente por sua placa de vídeo no modo de curva de velocidades padrão por hadrware. 
+
+Sugestões: 
+- Você pode desativar sugestões em <Interface> na aba das propriedades.

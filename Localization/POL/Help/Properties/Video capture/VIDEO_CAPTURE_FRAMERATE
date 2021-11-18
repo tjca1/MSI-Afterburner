@@ -1,0 +1,5 @@
+Iloœæ klatek na sekundê
+Adjusts the framerate of encoded video. Some frames will be dropped if your system is not fast enough to encode video at desired framerate, in this case you may try to decrease the framerate to improve video smoothness.
+
+Wskazówki:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

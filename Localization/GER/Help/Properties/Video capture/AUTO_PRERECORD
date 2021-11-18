@@ -1,0 +1,10 @@
+Automatische Vorwegaufnahme
+Auswahl des manuellen oder automatischen Vorwegaufnahme-Modus. 
+Beim Automatik-Modus wird die Vorwegaufnahme-Sitzung automatisch bei jedem Start einer 3D-Anwendung gestartet.
+Es ist jedoch immer noch möglich die Aufnahme mittels des Voraufzeichnungstasten-Hotkeys zu stoppen, 
+oder neu zu starten, wenn nötig.
+
+Hinweis:
+- Die Aktivierung dieser Option führt dazu, dass der zusätzliche %SERVERPRODUCTNAME% Prozess automatisch gestartet wird.
+Der Server stellt Video-Capture-Dienste für 3D-Anwendungen zur verfügung und kann nicht entladen werden, bis diese Option deaktiviert wird.
+

@@ -1,0 +1,14 @@
+2D-Profil .
+Dies erlaubt es, ein angelegtes Profil einem 2D-Status zuzuordnen.
+Dieses Profil wird automatisch von dem automatischen Profil-Manager geladen, wenn die aktuelle 3D-Anwendungsauslastung gleich Null ist.
+
+Hinweis:
+- Diese Option bewirkt, dass der OSD-Server gestartet wird. Der Server erstellt automatisch eine Liste der aktiven 3D-Anwendungen im Profil-Manager ein, und kann nicht beendet werden solange noch eine Aktivität besteht.
+- Sie können in den OSD Server Eigenschaften Ausnahmen für 3-D Anwendungen erstellen.
+- Sie können durch drücken der <i> Taste sehen welche 3D-Anwendung aktiv ist.
+- Diese automatische Profil Managment beeinfußt nicht die Stromsparroutinen der GPU. 
+- Dennoch können diese automatische Profil-Management-Funktion für verschiedene Zwecke nutzen, wie z. B. eine feste Drehzahl bei einer bestimmten 3D-Anwendungen.
+- Gebrauchen Sie diese Option icht zusammen mit Spannungsanpassung.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.
+

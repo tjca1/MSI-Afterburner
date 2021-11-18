@@ -1,0 +1,7 @@
+Ermögliche Low-Level-Zugriff auf die Hardwareschnittstelle
+Erlaubt %PRODUCTNAME% Low-Level-Treiber für den Zugriff auf Grafik-Hardware zu verwenden.
+Der Low-Level-Zugriff bietet die effektivste Umsetzung der Hardware Überwachung und erweitert die Hardware-Überwachungs und-Steuerungsmöglichkeiten jenseits der Grenzen der Grafikkarten-Treiber. Allerdings kann der der Low-Level Zugriff auf die Hardware bei einigen schlecht gestalteten System-Anwendungen (z.B. der berüchtigte Punkbuster Client für Battlefield: Bad Company 2) schwere Systeminstabilitäten wegen des unerlaubten Zugriffes auf Speicherbereiche des Grafikspeichers hervorrufen. 
+Sie können diese Option nutzen, um solche Probleme zu beheben. Es wird aber auch zu einer Verminderung der Leistung des Hardware-Monitoring-Moduls kommen und einige Hardware-Überwachung- oder Kontrollfeatures gehen verloren.
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

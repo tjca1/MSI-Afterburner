@@ -1,0 +1,7 @@
+Multithread Optimierung.
+Die Video-Kompressions-Engine wurde optimiert, um mit Systemen mit mehreren CPUs oder Multi-Core-CPUs zusammen zu arbeiten.
+Die Warteschlange der Bilder können gleichzeitig von mehreren Threads verarbeitet werden. Diese Option ermöglicht es zu bestimmen, wie viele Threads verwendet werden sollen.Es kann notwendig sein die Anzahl zu reduzieren oder ganz multithreaded zu deaktivieren, um einen möglichen Performance-Verlust des Systems zu reduzieren.
+
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

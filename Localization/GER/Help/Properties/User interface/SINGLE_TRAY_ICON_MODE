@@ -1,0 +1,4 @@
+Single Tray Icon Modus
+Aktiviert den Single Tray-Icon-Modus. 
+Wenn Single Tray-Icon-Modus aktiviert ist, wird das primäre Anwendungs-Tray-Icon mit dem Hardware-Monitoring-Tray-Icon (s) ersetzt, wenn die Überwachung in der Taskleiste aktiviert ist. Das Symbol des %SERVERPRODUCTNAME% wird nicht in Taskleiste angezeigt, wenn der Server geladen ist. Bitte nehmen Sie zur Kenntnis, dass die Eigenschaften des MSI On-Screen-Display-Server sind immer noch über <Mehr> Button in <On Screen Display(OSD)> Register zugänglich ist.
+

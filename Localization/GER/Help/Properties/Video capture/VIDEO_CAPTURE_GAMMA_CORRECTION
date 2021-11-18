@@ -1,0 +1,2 @@
+Gammakorrektur aktivieren
+Standardmäßig erfasst %PRODUCTNAME%  den Videostream ohne irgendeine Anpassungen an den Framebuffer. Doch einige Vollbild-Spiele erhöhen den Gammawert und so kann das aufgenommene Video dunkler erscheinen, als Sie es während des Spielens sehen. In diesem Fall können Sie diese Option aktivieren, um Gamma-Korrektur für aufgenommene Video-Streams anzuwenden, auf Kosten von einem kleineren Perfromance-Verlust.

@@ -1,0 +1,11 @@
+Shadertakt.
+Dieses passt den Shadertakt an.
+
+Hinweis:
+- Unabhängige Shadertakteinstellung ist nur bei NVIDIA Grafikkarten der GeForce Serien 8,9 und 200 möglich.
+- Bei Fermi basierten Grafikkarten ist die Kerntaktfrequenz an die Shadertaktfrequenz "fest verdrahtet" und im Verhältnis 2x gekoppelt.
+- ATI Grafikkarten erlauben keine unabhängige Einstellung des Shadertaktes.
+- Sie können auch direkt in das Anzeigefeld klicken und Ihren Wert direkt eingeben.
+- Wenn Sync-Modus eingestellt ist, werden die eingestellten Werte für alle GPUs angewendet.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

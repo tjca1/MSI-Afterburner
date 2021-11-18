@@ -1,0 +1,8 @@
+Automatisch (Auto).
+Dies erlaubt es,den Lüfter der primären Grafikkarte (GPU), von automatisch auf manuell umzustellen.
+
+Hinweis:
+- Wenn der Sync-Modus aktiviert ist, gelten diese Änderungen für alle Steuerungen gleicher GPUs.
+- Die Steuerung der Lüftergeschwindigkeit ist nicht verfügbar, wenn die GPU (s) das nicht unterstützen.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

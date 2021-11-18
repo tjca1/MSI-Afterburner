@@ -1,0 +1,13 @@
+Monitoring-Fenster.
+Diese Grafiken zeigen den Verlauf aller zur Überwachung gewählten Parameter Ihrer Grafikkarte und anderer Hardware-Parameter.
+.
+
+Hinweis:
+- Sie können den Cursor über den Graphen bewegen, um die Werte an der Cursor-Position zu verfolgen.
+- Sie können mit gedrückter <Alt>-Taste an verschiedenen Positionen im Grafikverlauf klicken, um benutzerdefinierte Tracking Marker an die jeweilige Cursor-Position zu bringen.
+- Sie können das Monitoring-Fenster individuell in Größe und Position setzen wenn Sie im Monitoring-Fenster doppelklicken oder die <Detach>-Taste nutzen. Um es wieder zu schließen oder um es wieder in das Hauptfenster anzubringen, klicken Sie einfach doppelt im freistehenden Monitoring-Fenster.
+- Sie können in den Erweiterten Einstellungen verschiedenen Parameter zur Überwachung unter [Aktivierung von Hardware Überwachungskurven] ein oder ausschalten.
+- Sie können so auch selten verwendet Graphen deaktivieren. Setzen sie ein Häkchen links von jedem gewünschten Parameter in der Liste der zu aktivierenden/deaktivierenden Graphen. Um sie zu arrangieren ziehen Sie einfach die Parameter per Drag-and-Drop in der Liste an die gewünschte Position.
+- Sie können auch mit der rechten Maustaste auf das Diagramm klicken und haben sofortigen Zugriff auf die Eigenschaften der ausgewählten Parameter.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

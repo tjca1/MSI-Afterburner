@@ -1,0 +1,4 @@
+Vorwegaufnahme im RAM
+Ermöglicht den Vorwegaufnahmepuffer im RAM zu speichern. Dieser Modus eignet sich am besten für kurze Videos (z.B. ein paar Minuten von H.264-Video). Es bietet ein etwas mehr Leistung als die Vorwegaufnahme in eine Datei zur Verfügung stellt. Im Gegensatz zur Vorwegaufnahme in eine Datei, minimiert die Nutzung des RAM Schreibvorgänge der Festplatte, und kann dadurch die Lebensdauer vor allem einer SSD erhöhen. Denken Sie daran wenn Sie planen die Vorwegaufnahme  häufig zu verwenden.
+
+

@@ -1,0 +1,7 @@
+Low-level Hardware Zugriffsmodus
+Der Low-level Zugriff auf die Grafik-Hardware kann im User und Kernel-Modus ausgeführt werden. 
+Der User-Modus bietet die beste Überwachung der Leistung und verbraucht keinen Kernel-Adressraum, während der Kernel-Modus Hardware-adressierte Speicherbereiche vor unautorisierten Zugriff von schlecht konzipierten Applikationen (z.B. der berüchtigte Punkbuster Client für Battlefield: Bad Company 2) schützt. 
+Auf diese Weise wird das System vor Instabilitäten geschützt.
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

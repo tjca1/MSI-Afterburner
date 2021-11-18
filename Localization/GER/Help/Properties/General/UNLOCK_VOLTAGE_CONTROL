@@ -1,0 +1,10 @@
+Spannungsregelung freischalten.
+Dies ermöglicht die Spannung zu steuern, wenn die GPU dies unterstützt. 
+Aktivieren Sie diese Option nur wenn Sie ein erfahrener Benutzer sind und Verständnis für die Risiken der Spannungsregelung haben!!!
+
+
+Hinweis:
+- Wenn verschiedene Spannungssteuerungs-Software gleichzeitig ausgeführt wird  kan diese Option zusätzlich gefährlich sein. Verwenden Sie diese Option nur, wenn Sie sich sicher sind!
+- Spannungsregelung ist nur auf GPU´s mit programmierbaren Spannungsregler möglich.Schauen Sie sich die vollständige Liste der GPUs, die es unterstützen.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

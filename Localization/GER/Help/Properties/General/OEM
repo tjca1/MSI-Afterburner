@@ -1,0 +1,8 @@
+Spannungs-Kontroll-Modus
+
+Auswahl einer der folgenden Spannungs-Kontroll-Modis:
+
+- Referenzdesign - nur Referenz-Design-Karten und Spannungsregler werden unterstützt.
+- MSI-Standard - Referenzdesign und MSI-Karten mit individuellen Design und Spannungsregler werden unterstützt.
+- MSI-Erweitert - Referenzdesign und MSI-Karten mit individuellen Design und Spannungsregler werden unterstützt,und der erweiterte Spannungsregelbereich ist für einige Modelle(Lightning,HAWK,PE) verfügbar.
+

@@ -1,0 +1,6 @@
+Otimização para vários threads do processador
+O motor de compressão de vídeo é otimizado para tirar vantagens dos sistemas com múltiplas CPUs ou vários threads de processador. A fila de entrada dos quadros é processada simultaneamente pelos vários segmentos do processador e esta opção permite que você controle a quantidade de threads de processamento para a fila. O motor de compressão padrão automaticamente utiliza uma fila para liberar os quadros compactados para o disco rígido em (N-1) filas para então comprimir os quadros de entrada no sistema com (N) threads do processador. No entanto, você pode reduzir a quantidade de filas ou desativar a implementação de vários segmentos para solucionar problemas de desempenho. 
+
+Sugestões: 
+- Os quadros serão processados em modo de compressão única se utilizar a compressão VFW. No entanto, neste caso, as conversões de espaço de cores ainda serão vinculadas aos vários segmentos. 
+- Você pode desativar sugestões em <Interface> na aba das propriedades.

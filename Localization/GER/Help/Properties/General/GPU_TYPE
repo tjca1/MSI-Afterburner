@@ -1,0 +1,8 @@
+Grafikprozessortyp
+Einige Grafikkarten-Modelle, verwenden unterschiedliche Grafikprozessoren (z.B.GPU´s mit hohen oder niedrigen Leckstrom )mit unterschiedlichen Spannungen und mit verschiedenen 3D-Spannungsregelungs Ansatz. Es ist möglich, dass diese Option bei Ihrem Grafik-Prozessor verwenden müssen, um die richtige Spannung zu kontrollieren.
+
+
+
+Hinweis:
+- Die GPU Auswahl wirkt sich nur auf die primäre GPU aus.
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

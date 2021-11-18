@@ -1,0 +1,3 @@
+Vorwegaufnahme-Größenbeschränkung
+Definieren Sie die Größe für den Aufnahmepuffer in Megabyte. Sie können die Größe auf Null setzen, um eine unbegrenzte Größe zu veranlassen. Bitte nehmen Sie zur Kenntnis, dass im Falle der Voraufzeichnung in eine Datei, die reservierte Dateigröße zweimal größer sein wird, um wirksam Ringpufferung bereitzustellen.
+

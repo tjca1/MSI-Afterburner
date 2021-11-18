@@ -1,0 +1,7 @@
+Multichannel umwandeln in Stereo.
+Ermöglicht die Mehrkanal-Audio-Stream-Aufnahme welche von Mehrkanal-Soundkarten erfasst wird, und wandelt es in ein Stereo-Audio-Stream .
+Die Umwandlung hat zur Folge, dass die Video-Datei kleiner ist und eine bessere Kompatibilität mit Video-Playern und Video-Editing-Software hat.
+
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

@@ -1,0 +1,8 @@
+Desbloquear monitoramento de tensão 
+Desbloqueia o monitoramento de tensão se suportado pelo hardware. Não use esta opção se estiver executando simultaneamente qualquer outro programa de monitoramento de tensão. 
+
+Sugestões: 
+- Pode ser perigoso executar vários programas reguladores de tensão simultaneamente. Por favor, não use esta opção se você não tem certeza disso. 
+- O ajuste de tensão é limitado às placas de vídeo equipadas com módulos de controle de tensão programáveis. Consulte os modelos que suportam regulação de tensão. 
+- Requer reinicialização do %PRODUCTNAME% para aplicar as alterações. 
+- Você pode desativar sugestões em <Interface> na aba das propriedades.

@@ -1,0 +1,6 @@
+Poka¿ czas systemowy
+Allows showing system time in the On-Screen Display.
+
+Wskazówki:
+- Enabling this option will cause additional %SERVERPRODUCTNAME% process to be automatically started. The server provides On-Screen Display rendering services to 3D applications and it cannot be unloaded until this option is disabled.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

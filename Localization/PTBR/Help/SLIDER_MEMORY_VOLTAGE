@@ -1,0 +1,10 @@
+Tensão da memória de vídeo
+Ajusta a tensão da memória de vídeo da placa de vídeo principal. Dependendo do modelo da placa, a tensão pode ser representada como um valor absoluto ou como uma variação da tensão base. Valores assinalados com + representam variações originais de tensão, enquanto valores não assinalados representam o valor absoluto.
+
+Sugestões:
+- O controle de tensão está bloqueado por razões de segurança. Se você compreender e aceitar os riscos de sua utilização, pode desbloqueá-lo em <propriedades>.
+- Quando o modo de sincronização entre placas de vídeo similares estiver habilitado em <Geral>, as alterações nas configurações placa de vídeo principal serão aplicadas às outras placas semelhantes instaladas no sistema.
+- O ajuste de tensão é restrito às placas de vídeo equipadas com um módulo de controle de tensão programável. Consulte os modelos que suportam a regulação de tensão.
+- Quando o cursor estiver selecionado, você pode usar as teclas direcionais para alterar os valores.
+- Você pode clicar na caixa de texto ao lado e inserir o valor desejado diretamente.
+- Você pode desativar sugestões em <Interface> na aba das propriedades.

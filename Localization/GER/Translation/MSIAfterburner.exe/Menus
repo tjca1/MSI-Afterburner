@@ -1,0 +1,47 @@
+#src Pause
+#dst Pause
+#end
+#src Clear history
+#dst Verwerfe Ereignisse
+#end
+#src Show status
+#dst Zeige Status
+#end
+#src Log history to file
+#dst Schreibe Ereignisse in Datei
+#end
+#src Always on top
+#dst Immer oben halten
+#end
+#src Attach
+#dst Anheften
+#end
+#src Detach
+#dst Loslösen
+#end
+#src Detach all
+#dst Alle lösen
+#end
+#src Properties
+#dst Eigenschaften
+#end
+#src Remove all markers
+#dst Alle Marker löschen
+#end
+
+#src Copy
+#dst Kopie
+#end
+
+#src Show
+#dst Zeige
+#end
+#src Profiles
+#dst Profile
+#end
+#src Close
+#dst Schließen
+#end
+#src There are no profiles
+#dst Keine Profile vorhanden
+#end

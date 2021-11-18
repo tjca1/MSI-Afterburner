@@ -1,0 +1,5 @@
+Configurações da fonte de dados
+Permite configurar a fonte de dados externa fornecida por um módulo de plugin, se suportar ajustes configuráveis pelo usuário.
+
+Sugestões: 
+- Você pode desativar sugestões em <Interface> na aba das propriedades.

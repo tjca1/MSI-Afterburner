@@ -1,0 +1,20 @@
+[Info]
+Language 	= Ukrainian
+Icon		= ukr.ico
+
+
+; Third party localization creators may provide their contact info using
+; optional Creator, CreatorEmail and CreatorICQ fields.
+; This info will be displayed into the information window when the corresponding
+; language is selected. This allows users to contact you easily if they find any
+; typos in your localization.
+;
+; For example:
+;
+; Creator	= Alexey Nicolaychuk aka Unwinder
+; CreatorEmail	= AlexUnwinder@mail.ru
+; CreatorICQ	= 64116381
+
+Creator		= Osadchuk Artem aka -Gektor--> forum.overclockers.ua 
+CreatorEmail	= Kokapepsi@ua.fm 
+CreatorICQ	= 11111111

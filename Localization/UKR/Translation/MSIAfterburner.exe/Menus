@@ -1,0 +1,47 @@
+#src Pause
+#dst Пауза
+#end
+#src Clear history
+#dst Очищення історії
+#end
+#src Show status
+#dst Показувати статус
+#end
+#src Log history to file
+#dst Записувати історію в звіт
+#end
+#src Always on top
+#dst Поверх всіх вікон
+#end
+#src Attach
+#dst Приєднати
+#end
+#src Detach
+#dst Від'єднати
+#end
+#src Detach all
+#dst Від'єднати всі
+#end
+#src Properties
+#dst Властивості
+#end
+#src Remove all markers
+#dst Прибрати всі маркери
+#end
+
+#src Copy
+#dst Копіювати
+#end
+
+#src Show
+#dst Показати
+#end
+#src Profiles
+#dst Профілі
+#end
+#src Close
+#dst Вихід
+#end
+#src There are no profiles
+#dst Профілі відсутні
+#end

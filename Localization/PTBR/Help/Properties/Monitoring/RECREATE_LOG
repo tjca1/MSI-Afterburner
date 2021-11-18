@@ -1,0 +1,7 @@
+Recriar arquivos de registros históricos de monitoramentos 
+Permite recriar a cada nova sessão iniciada os arquivos de registros históricos de monitoramentos existentes. Caso contrário, os arquivos existentes serão adicionados às novas sessões de registro geradas. 
+
+Sugestões: 
+- O %PRODUCTNAME% salva os monitoramentos em formato de arquivo RivaTuner nativo. Você pode usar o RivaTuner para visualizar os arquivos gravados com o %PRODUCTNAME%. 
+- O processo de monitoramento consome recursos do sistema, sobretudo da CPU, a cada atualização para gravar dados no disco rígido. 
+- Você pode desativar sugestões em <Inteface> na aba das propriedades.

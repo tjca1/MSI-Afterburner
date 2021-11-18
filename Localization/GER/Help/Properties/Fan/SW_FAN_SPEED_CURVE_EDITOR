@@ -1,0 +1,11 @@
+Definierter Lüftergeschwindigkeits-Kurven-Editor.
+Dies ermöglicht es die Lüftergeschwindigkeitskurve in einen definierten Lüftersteuerungsmodus einzustellen.
+
+Hinweis:
+- Sie können auf der Kurve den einzelnen Punkten einen neue Positionierung zuweisen. Bis zu 8 Punkte und deren Positionen sind erlaubt.
+- Sie können einfach auf diese Punkte klicken, um sie wie gewünscht zu verschieben.
+- Die Punkte können auch mit den Pfeiltasten auf der Tastatur fein positioniert werden. .
+- Sie können den ausgewählten Punkt auch durch die Löschtaste[Entf] oder [Del] löschen.
+- Sie können auch durch Doppelklick in der Kurve zwischen linearer und schrittweiser Kurve wechseln. Mit der schrittweisen Erhöhung kann die CPU Last verringern werden, da es weniger Drehzahlanpassung erfordert. 
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

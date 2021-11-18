@@ -1,0 +1,9 @@
+Gemeinsame Kopplung (Link).
+Dies ermöglicht den GPU-Prozessor und Shadertakt, einzeln oder miteinander verbunden, anzupassen.
+
+
+Hinweis:
+- Shader Clock Einstellungen sind nur bei NVIDIA GeForce 8-Serie und höherer GPUs möglich. ATI GPUs unterstützen Shader Clock-Einstellung nicht.
+- Bei Fermi basierten NVIDIA GPU´s sind GPU-Prozessortakt und Shadertakt aneinander gekoppelt und nicht einzeln verstellbar.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

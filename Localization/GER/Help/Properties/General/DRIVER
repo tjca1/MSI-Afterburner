@@ -1,0 +1,3 @@
+Low-Level-IO-Treiber aktivieren 
+Standardmäßig verwendet %PRODUCTNAME% Low-Level-IO-Treiber für den schnellen Hardware-Scan, CPU-Temperaturüberwachung und Low-Level-Zugriff auf die Grafik-Hardware. 
+Sie können diese Option zur Problembehandlung vollständig abschalten, um jeden Low-Level-Zugriff auf die Hardware zu unterbinden.

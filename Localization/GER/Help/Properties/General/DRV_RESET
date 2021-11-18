@@ -1,0 +1,7 @@
+Anzeige bei Verwendung von inoffiziellem OC zurücksetzen
+Durch einen Bug im AMD Catalyst-Treiber kann die Anzeige nach der Anwendung inoffizieller Übertaktung flackern. 
+Sie können diese Option als Behelfslösung aktivieren,um den Display-Modus zu zwingen bei der Anwendung inoffizieller Overclocking zurückgesetzt zu werden.
+
+Hinweis:
+- Diese Option ist nur aktiv, wenn mindestens eine unterstützte AMD Grafikkarte im System installiert ist.
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

@@ -1,0 +1,7 @@
+Synchronisieren der Einstellungen gleicher Grafikkarten(GPU's).
+Wenn diese Option aktiviert wird gelten alle vorgenommenen Einstellungen für alle erkannten GPU´s.
+
+Hinweis:
+- Es können nur gleiche GPU´s mit gleicher PCI Decive ID synchronisiert werden.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

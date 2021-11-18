@@ -1,0 +1,13 @@
+ULPS deaktivieren
+Diese Einstellung erlaubt den Ultra-Low-Power-State Modus zu deaktivieren. Der ULPS Modus ermöglicht dem AMD Grafiktreiber die sekundären Grafikkarte im Leerlauf in Crossfire-Konfigurationen zu deaktivieren. 
+Andererseits kann der ULPS Modus Grund für Instabilitäten des Systems unter bestimmten Bedingungen sein, so können Sie es für die Fehlersuche deaktivieren.
+Bitte nehmen Sie zur Kenntnis, dass diese Option sich auch auf ZeroCore Energiespar-Technologie der neuesten AMD-Grafikkarten auswirkt.
+Bedenken Sie bitte auch, dass ULPS nach der Installation neuer AMD-Grafiktreiber wieder deaktiviert werden muss.
+
+WARNUNG! Verwenden Sie diese Option auf eigene Gefahr! Sowohl MSI und AMD bieten Ihnen keine Unterstützung in jederweder Form, einschließlich Fragen in den Foren.
+
+Hinweis:
+- Diese Option ist nur aktiv, wenn mindestens eine unterstützte AMD Grafikkarte im System installiert ist.
+- Ein Reboot ist erforderlich, um die Änderungen dieser Option geltend zu machen.
+- Es wird dringend empfohlen, wenn Sie den inoffizieller Overclocking-Modus mit Crossfire-Konfigurationen benutzen, den ULPS Modus zu deaktivieren.
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

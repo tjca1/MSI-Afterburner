@@ -1,0 +1,6 @@
+Korrekturformel
+Hier konnen sie eine Formel zur Korrektur des ausgewahlten Uberwachungsmoduls eintragen. Eine Korrekturformel kann nutzlich sein, um z.B. Temperaturverschiebungen durch fehlerhafte kalibrierte Sensoren zu korrigieren. Beispielsweise die Formel "x + 10" fugt der Ausgabe 10 Grad hinzu.
+
+Hinweis:
+- Fehlerhafte Formeln werden in Rot dargestellt.
+- Sie konnen die Einblendungen der Tipps und Hinweise und in den erweiterten Eigenschaften unter [Benutzeroberflache] deaktivieren.

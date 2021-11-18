@@ -1,0 +1,10 @@
+Benutzerdefiniert Lüftermodus (User define).
+Damit wird der benutzerdefinierte Lüftersteuerungsmodus eingeschaltet. 
+In diesem Modus wird die Anwendung die zu überwachende GPU-Temperatur und Lüfterdrehzahl durch Anpassung der Lüfterdrehzahlkurve geregelt, welche in der Registerkarte Erweitert Einstellungen [Lüfter] Eigenschaften definiert ist.
+
+Hinweis:
+- Die Steuerung der Lüftergeschwindigkeit ist nicht möglich, wenn die GPU (s) diese Einstellung nicht unterstützt.
+- Es ist eine gemeinsame Einstellung für alle im System installierten GPUs möglich. Der definierte Lüftermodus kann von dieser getroffenen Einstellung außer Kraft gesetzt werden.
+- Sobald der Benutzer-definierte Lüftersteuerung Modus aktiviert ist, können Sie immer noch automatische und manuelle Lüftersteuerung  aktivieren, indem Sie die Taste <Auto> drücken.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

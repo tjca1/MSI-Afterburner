@@ -1,0 +1,7 @@
+Nach Standby-Modus Einstellungen wiederherstellen
+Normalerweise wird der Grafikkarten-Zustand gespeichert und ordnungsgemäß vom Display-Treiber nach der Rückkehr aus dem Suspend-Modus wiederhergestellt. Allerdings kann das Wiederherstellen durch einige verbuggte Display-Treiber fehlschlagen. 
+In diesem Fall können Sie diese Option als Behelfslösung aktivieren, um %PRODUCTNAME% zu zwingen, den Grafikkarten-Zustand in einem temporären Profil vor dem Übergang in den Standby-Modus zu sichern, um nach der Rückkehr aus dem Standby-Modus dieses Profil wieder herszustellen.
+
+Hinweis:
+- %PRODUCTNAME% muss sich im Speicher befinden, damit diese Option richtig funktioniert.
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

@@ -1,0 +1,2 @@
+Vorwegaufnahme-Zeitlimit
+Definiert ein Zeitlimit für den Vorwegaufnahme-Puffer in Sekunden. Um ohne Begrenzung zu arbeiten, können Sie diese Option auf Null setzen.

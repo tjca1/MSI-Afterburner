@@ -1,0 +1,10 @@
+Format wideo
+Allows selecting video capture format. Depending on your preferences you can select one of the following formats:
+
+- Bez kompresji - the video is being encoded in raw format without compression in any form. No third party codecs are required to play video encoded in this format. Please take a note that you need really fast disk I/O susbsystem to encode high resolution video in uncompressed format without dropped frames, e.g. to encode uncompressed video in 1680x1050 resolution at 30 frames per second you'll need disk I/O subsystem with 150MB/s (1680*1050*3*30) bandwidth. 
+- Kompresja RTV1 - the video is being encoded in RivaTuner Video format V1. RivaTuner Video Codec installation is required to play video encoded in this format. RivaTuner Video format V1 is lossy compression format based on DXT1 compression algorithm with fixed 6x compression ratio. RTV1 encoder is able to encode high resolution video at high framerate without consuming too much CPU time, so this format is recommended for the systems with single core or slow dual core CPUs.
+- Kompresja MJPG - the video is being encoded in native MJPG format. No third party codecs are required to play video encoded in this format, such video should be playable on different platforms or even on hardware media players. 
+MJPG compression format gives you the best compression ratio but reqiures rather fast multicore CPU to encode high resolution video without dropped frames. Also, keep in mind you may tune the balance between image quality and compression ratio for this format.
+
+Wskazówka:
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

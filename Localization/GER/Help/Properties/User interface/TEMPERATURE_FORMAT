@@ -1,0 +1,5 @@
+Temperatur-Format
+Auswahl von Grad-Celsius oder Fahrenheit als Temperaturformat.
+Bitte nehmen Sie zur Kenntnis, dass sich diese Einstellung nur auf die Temperaturanzeigen im Hardware-Monitoring-Fenster bezieht.
+Hardwarenahe Temperatureinstellungen (z.B. temperaturgesteuerte Lüfterdrehzahl oder Temperatur-Taget z.B. der NVIDIA Kepler-Serie) 
+werden immer für eine maximale Vereinheitlichung, Sicherheit und Kompatibilität in Celsius eingestellt.

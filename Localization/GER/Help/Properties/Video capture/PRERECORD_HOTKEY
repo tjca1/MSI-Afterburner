@@ -1,0 +1,7 @@
+Video Vorwegaufnahme-Hotkey
+Definiert einen globalen Hotkey zum Starten und Stoppen der Video Vorwegaufnahme. Bei diesem Voraufzeichnungsmodus nimmt MSI Afterburner Videos auf und speichert sie in einem Aufnahmepuffer im RAM oder in einer temporären Datei. So enthält der Aufnahmepuffer immer die letzten Minuten des aufgenommenen Videos. Wenn Sie die Video-Aufnahmetaste drücken während Sie die Vorwegaufnahme drücken,wird das daraus resultierende Video durch den Vorwegaufnahme-Pufferinhalt angehängt.
+
+Hinweis:
+- Das Aktivieren dieser Option führt dazu, dass der zusätzliche RTSS-Prozess automatisch gestartet wird. Der Server stellt Video-Capture-Dienste für 3D-Anwendungen bereit, und kann nicht entladen werden, bis diese Option deaktiviert wird.
+- Einige Tastenkombinationen (zB <1> ... <5>, <Strg> + <1> ... <Strg> + <5>, und <Strg> + <D>) sind reserviert und können nicht verwendet werden.
+

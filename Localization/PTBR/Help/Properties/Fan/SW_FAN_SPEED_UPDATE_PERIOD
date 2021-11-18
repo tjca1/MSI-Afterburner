@@ -1,0 +1,8 @@
+Atualização da velocidade da ventoinha
+Exibe e modifica o tempo em milisegundos de atualização da velocidade da ventoinha definida para o modo de controle automático.
+
+Sugestões:
+- O controle automático de atualização da velocidade da ventoinha consome recursos da CPU, são necessários recursos de processamento para cada leitura da temperatura do hardware e atualização de velocidade da ventoinha de acordo com a curva definida. Dependendo da GPU, do tipo de sensor e de protocolos de acesso ao hardware, o uso do software de controle automático pode não provocar alterações de desempenho perseptíveis ou, em alguns casos, pode provocar "microtravamentos" ou "congelamentos" em aplicações que exigem grande carga da CPU, como em jogos 3D.
+- Se você estiver enfrentando esses problemas quando o %PRODUCTNAME% estiver em execução, desative o controle automático ou aumente o tempo de atualização da velocidade da ventoinha. 
+- Usuários mais experientes também podem usar o monitor de desempenho clicando no botão direito do mouse no painel de monitoramento e selecionando a opção "Mostar status". As informações exibem os tempos de utilização da CPU para diferentes processos em segundo plano, incluindo a atualização de velocidade da ventoinha.
+- Você pode desativar sugestões em <Interface> na aba das propriedades.

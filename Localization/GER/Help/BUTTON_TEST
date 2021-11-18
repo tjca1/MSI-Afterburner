@@ -1,0 +1,11 @@
+Kombustor
+Führt einen Stabilitätstest für die Grafikkarte mit MSI Kombuster durch.
+MSI Kombuster ist auch über eine separate Option zu installieren. 
+Dabei wird die Grafikkarte auf Stabilität  mit dem Testmodul Kombuster "von Furmark Technologien Powered" getestet.
+
+Hinweis:
+- Bitte berücksichtigen Sie die Tatsache, dass ein Stabilitätstest nicht mit 100% Sicherheit über die Stabilität des Systems aussagt. 
+- Verwenden Sie Kombuster als Helfer, wenn Ihr System übertaktet wurde, aber machen Sie immer einen zweiten Test mit einer echten 3D-Anwendung.
+- Besuchen Sie https://msi.com/page/afterburner um die neueste Version von MSI Kombuster und MSI Afterburner herunterzuladen und zu installieren.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

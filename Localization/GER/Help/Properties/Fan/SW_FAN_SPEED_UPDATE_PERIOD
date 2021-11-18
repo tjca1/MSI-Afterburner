@@ -1,0 +1,9 @@
+Aktualisierungszeit der Lüfterdrehzahl.
+Dies passt den Aktualisierungszeitraum des definierten Lüftersteuerungsmodus an.
+
+Hinweis:
+- Dieser benutzerdefinierte Lüftersteuerungsmodus ist nicht völlig frei in Bezug die Leistung der Grafikkarte. Wenn Sie etwas wie stotternde Effekte in einer 3D-Anwendung bemerken, versuchen Sie diesen Modus zu deaktivieren um das Problem zu beheben.
+Schalten Sie den benutzerdefinierten Lüftersteuerungsmodus aus, um zu sehen ob die Probleme damit verschwinden.
+Dies ermöglicht die CPU-Auslastung für verschiedene Hintergrund-Prozesse wie die Lüftergeschwindigkeitsaktualisierung zu senken.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

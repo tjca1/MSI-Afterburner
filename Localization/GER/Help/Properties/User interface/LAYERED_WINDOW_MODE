@@ -1,0 +1,10 @@
+Skin Composition Modus
+Ermöglicht den Skin-Composition-Modus. Der Skin-Composition-Modus definiert, wie die durch die Skin Engine veränderten Skin-Fenster Pixel mit den darunterliegenden Fenster Pixel kombiniert werden.Sie können eine der folgenden Kompositionen zu wählen:
+
+- traditionell 
+bietet Abwärtskompatibilität mit alten Betriebssystemen und Skins. Dieser Composition-Modus verwendet GDI Clip-Regionen, um nicht-rechteckige Fensterform darzustellen, so kann die Fenster Update Leistung abnehmen, wenn das Fenster zu viele nicht-rechteckige Bereiche enthält.
+- mit Colorkey 
+bietet die beste angepasste Fenster Wiedergabeleistung für moderne Betriebssysteme. Dieser Composition-Modus verwendet Ebenen-Fenster mit Hardware-beschleunigter Colorkey Unterstützung, so dass die Fenster Update Leistung nicht von der Fensterform abhängt. Zusätzlich können Sie das Skin-Transparenzniveau mit diesem Modus einstellen.
+- mit Alpha Channel 
+bietet zusätzliche Unterstützung für Effekte der Skin-Engine. Dieser Composition-Modus verwendet Ebenen-Fenster mit Hardware-beschleunigtem Pro-Pixel-Alphakanal, Skin-Designer können so semi-transparente Skin-Bereiche definieren, Antialiasing Skin-Ränder definieren und so weiter. Sie können auch das Skin-Transparenzniveau in diesem Modus einstellen.
+

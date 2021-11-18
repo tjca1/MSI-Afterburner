@@ -1,0 +1,205 @@
+#src GPU temperature
+#dst GPU Temperatur
+#end
+#src GPU%d temperature
+#dst GPU%d Temperatur
+#end
+#src GPU voltage
+#dst GPU Spannung
+#end
+#src GPU%d voltage
+#dst GPU%d Spannung
+#end
+#src PCB temperature
+#dst PCB Temperatur
+#end
+#src PCB%d temperature
+#dst PCB%d Temperatur
+#end
+#src Fan speed
+#dst Lüftergeschwindigkeit
+#end
+#src GPU%d fan speed
+#dst GPU%d Lüftergeschwindigkeit
+#end
+#src Core clock
+#dst Prozessortakt
+#end
+#src GPU%d core clock
+#dst GPU%d Prozessortakt
+#end
+#src Shader clock
+#dst Shader Geschwindigkeit
+#end
+#src GPU%d shader clock
+#dst GPU%d Shader Geschwindigkeit
+#end
+#src Memory clock
+#dst Speicher Geschwindigkeit
+#end
+#src GPU%d memory clock
+#dst GPU%d Speicher Geschwindigkeit
+#end
+#src GPU usage
+#dst GPU Auslastung
+#end
+#src GPU%d usage
+#dst GPU%d Auslastung
+#end
+#src Framerate
+#dst Framerate
+#end
+#src Memory usage
+#dst Speicher Auslastung
+#end
+#src GPU%d memory usage
+#dst GPU%d Speicher Auslastung
+#end
+#src °C
+#dst °C
+#end
+#src V
+#dst V
+#end
+#src MHz
+#dst MHz
+#end
+#src MB
+#dst MB
+#end
+#src FPS
+#dst FPS
+#end
+#src %dMHz
+#dst %dMHz
+#end
+#src %d%%
+#dst %d%%
+#end
+#src %.3fV
+#dst %.3fV
+#end
+#src %+.3fV
+#dst %+.3fV
+#end
+#src Auto
+#dst Auto
+#end
+#src Aux voltage
+#dst Aux Spannung
+#end
+#src GPU%d aux voltage
+#dst GPU%d Aux Spannung
+#end
+#src Memory voltage
+#dst Speicherspannung
+#end
+#src GPU%d memory voltage
+#dst GPU%d Speicherspannung
+#end
+#src Fan tachometer
+#dst Lüftertachometer
+#end
+#src GPU%d fan tachometer
+#dst GPU%d Lüftertachometer
+#end
+#src RPM
+#dst RPM
+#end
+#src Memory temperature
+#dst Speichertemperatur
+#end
+#src GPU%d memory temperature
+#dst GPU%d Speichertemperatur
+#end
+#src VRM temperature
+#dst VRM Temperatur
+#end
+#src GPU%d VRM temperature
+#dst GPU%d VRM Temperatur
+#end
+#src I confirm that I am aware of unofficial overclocking limitations and fully understand that MSI will not provide me any support on it
+#dst Ich bestätige, dass ich mir der inoffiziellen Overclocking Grenzen bewusst bin und verstehe, dass MSI mir keinen Support dafür geben wird.
+#end
+#src Power
+#dst Power
+#end
+#src GPU%d power
+#dst GPU%d Power
+#end
+#src Frametime
+#dst Frametime
+#end
+#src ms
+#dst ms
+#end
+#src Temp limit
+#dst Temp Limit
+#end
+#src GPU%d temp limit
+#dst GPU%d Temp Limit
+#end
+#src Power limit
+#dst Power Limit
+#end
+#src GPU%d power limit
+#dst GPU%d Power Limit
+#end
+#src Voltage limit
+#dst Voltage Limit
+#end
+#src GPU%d voltage limit
+#dst GPU%d Voltage Limit
+#end
+#src OV max limit
+#dst OV Max Limit
+#end
+#src GPU%d OV max limit
+#dst GPU%d OV Max Limit
+#end
+#src FB usage
+#dst FB Nutzung
+#end
+#src GPU%d FB usage
+#dst GPU%d FB Nutzung
+#end
+#src VID usage
+#dst VID Nutzung
+#end
+#src GPU%d VID usage
+#dst GPU%d VID Nutzung
+#end
+#src BUS usage
+#dst BUS Nutzung
+#end
+#src GPU%d BUS usage
+#dst GPU%d BUS Nutzung
+#end
+#src No load limit
+#dst Ausnutzungs Limit
+#end
+#src GPU%d no load limit
+#dst GPU%d Ausnutzungs Limit
+#end
+#src CPU usage
+#dst CPU Auslastung
+#end
+#src CPU%d usage
+#dst CPU%d Auslastung
+#end
+#src RAM usage
+#dst RAM Auslastung
+#end
+
+#src Commit charge
+#dst Auslagerungsdatei Auslastung
+#end
+
+#src CPU temperature
+#dst CPU Temperatur
+#end
+
+#src CPU%d temperature
+#dst CPU%d Temperatur
+#end
+

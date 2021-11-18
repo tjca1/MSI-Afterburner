@@ -1,0 +1,6 @@
+Vordefinierte Lüfter-Kurven
+Zeigt die Liste der vordefinierten Lüfterdrehzahl Kurven. Die Liste enthält immer die standardmäßige Kurve und kann gegebenenfalls zusätzliche Kurven (wie leise oder Performance-Preset) für einige MSI Grafikkarten mit benutzerdefiniertem Design beinhalten.
+
+Hinweis:
+- Die automatische Lüftergeschwindigkeit Kurve wird nicht durch die eingestellten Profile beeinflusst. 
+- Es ist es eine globale Einstellung für alle im System installierten GPU´s. 

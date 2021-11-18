@@ -1,0 +1,5 @@
+Framerate Grenze
+Ermöglicht die Definition einer Framerate Grenze für 3D-Anwendungen während der Videoaufnahme.Die Begrenzung der Framerate während der Videoaufnahme kann die Video Glättung verbessern. Die Glättung wird verbessert, wenn die Spiel-Framerate ein mehrfaches der Video-Aufnahme-Framerate ist, so dass die Grenze als Video-Aufnahme-Framerate Multiplikator definiert ist.
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

@@ -1,0 +1,10 @@
+Hardware Überwachungskurven
+Dies zeigt eine Liste der möglichen Hardwaremonitoring-Kurven und erlaubt es, den Standort und den Modus zu ändern.
+
+Hinweis:
+- Die Checkbox Eigenschaften aktiviert die Komponente im OSD.
+ - Mit dem Haken aktiven Sie die Komponenten und sind dann sichtbar im Hardware Monitor.
+- Vermeiden Sie unnötige Komponenten zu aktivieren, da sie die CPU Last erhöhen.
+- Die Aktivierung der Eigenschaft [in OSD] erfordert das Booten des zusätzlichen "On-Screen-Display-Server".
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

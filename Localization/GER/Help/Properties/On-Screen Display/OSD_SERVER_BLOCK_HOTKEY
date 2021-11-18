@@ -1,0 +1,15 @@
+Taste für OSD Server Sperrung.
+
+Einige MSI Afterburner Funktionen wie OSD-Einblendungen, Bildschirmfotos und Videomitschnitte benötigen einen On-Screen Server Prozess.
+Darum ist es notwendig diesen mit dem MSI Afterburner Start mit zu laden.
+Es ist möglich, dass einige Anti-Cheat-Systeme von einigen Online-Spielen die Verbindung des Spielservers trennen, wenn sie erkennen das der %SERVERPRODUCTNAME% gestartet wurde.
+
+Um diese Probleme zu vermeiden, können Sie eine Taste für die On-Screen Server Sperrung definieren, um vorübergehend OSD Server vorübergehend aus dem Speicher zu entladen, wenn es für das reibungslose Funktionieren erforderlich wäre. 
+Bitte beachten Sie, dass alle Funktionen des Servers beendet werden, wenn er gesperrt ist und entladen wird.
+
+
+Hinweis:
+- Einige Tastenkombinationen sind reserviert und können nicht verwendet werden (zB <1 5 >...< >...< Strg> + <1 >...< Strg> + <5> + <strg> <D>) .
+
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

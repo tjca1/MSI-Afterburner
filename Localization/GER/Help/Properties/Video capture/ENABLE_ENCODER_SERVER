@@ -1,0 +1,6 @@
+Verwenden des dedizierten Encoder-Server
+Standardmäßig wird Video-Encoding in Zusammenhang mit dem 3D-Prozess aufgenommenen welches das Video ausführt. Dies bedeutet, dass nur 32-Bit-Versionen eines Codecs bei der Aufnahme von Videos von 32-Bit-Anwendungen und nur 64-Bit-Versionen eines Codecs bei der Aufnahme von Videos einer 64-Bit-Anwendungen, eingesetzt werden können.
+Sie können diese Option aktivieren, um die Ausführung der Codierung vom dedizierte Encoder Service-Prozess zu erzwingen. So kann man 32-Bit-Versionen von Codecs verwenden, bei der Videoaufnahme von 64-Bit-Anwendungen und umgekehrt.
+Darüber hinaus läuft der dedizierte Encoder-Server in gesonderten Adressraum, so dass die Aktivierung dieser Option viel mehr RAM für den Aufnahmepuffer reservieren kann, ohne den Adressraum der 3D-Anwendung zu beeinträchtigen welchen Sie für die Videoaufnahme gebraucht.
+Der dedizierte Encoder-Server kann auch in bestimmten Fällen sinnvoll sein, wenn im Video-Encoding-Prozess die Leistung, durch verschiedene DirectX-Synchronisations Probleme leidet.
+For example, dedicated video encoder usage may boost encoding-performance via Intel QuickSync plugin working in Direct3D9 hardware acceleration mode when capturing video from Direct3D9 applications.

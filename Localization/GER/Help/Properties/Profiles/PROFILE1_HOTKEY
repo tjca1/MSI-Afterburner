@@ -1,0 +1,8 @@
+Schnelltaste für Profil Slot 1.
+Dieses ermöglicht eine Schnellstarttaste zu definieren um das Profil von Slot 1 zu laden.
+
+Hinweis:
+- Vorsicht wenn Sie während einer 3D-Anwendung ein anderes Profil laden, kann dies zur Instabilität führen.
+- Einige Tastenkombinationen sind reserviert und können nicht verwendet werden (zB <1 5 >...< >...< Strg> + <1 >...< Strg> + <5> + <strg> <D>).
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

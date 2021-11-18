@@ -1,0 +1,9 @@
+Video-Container Format
+Ermöglicht die Auswahl Container-Dateiformat. Je nach Ihren Wünschen können Sie einen der folgenden Container auswählen:
+
+- AVI - Audio Video Interleave ist Multimedia-Container von Microsoft, der in den frühen 90er Jahren eingeführt wurde. Der AVI-Container ist weit verbreitet und wird von jedem Video-Player unterstützt. Jedoch ist die AVI Container-Architektur ziemlich alt und einige moderne Videokompression Formate wie H.264 passen besser zu fortschrittlicheren Container-Formaten.
+
+-MKV - Matroska ist ein moderner flexibler Multimedia-Container, der im Jahr 2002 eingeführt wurde. Im Gegensatz zu AVI, bietet der MKV-Container native Unterstützung von Zeitstempeln der Video-und Audio-Frames. Damit ist die Gefahr, dass Audio / Video-Sync-Probleme während der Videowiedergabe auftreten minimiert. Allerdings kann die MKV-Container-Unterstützung bei einigen Video-Player begrenzt sein.
+
+-Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise  in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

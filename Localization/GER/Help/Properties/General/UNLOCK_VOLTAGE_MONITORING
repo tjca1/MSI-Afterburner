@@ -1,0 +1,8 @@
+Spannungsüberwachung freischalten
+Diese Option ist nur mit unterstützten GPU´s möglich. Vermeiden Sie die gleichzeitige Ausführung von Software-Überwachungsprogrammen.
+
+Hinweis:
+- Es kann gefährlich sein gleichzeitig mehrere Überwachungsprogramme mit auszuführen.
+- Spannungsregelung muss von der GPU unterstützt werden.Überprüfen Sie die Liste, welche GPUs  diese Funktion unterstützen.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

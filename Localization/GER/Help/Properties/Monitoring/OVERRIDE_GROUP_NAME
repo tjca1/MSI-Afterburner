@@ -1,0 +1,9 @@
+Gruppennamen ändern
+Standardmäßig werden die Werte im On-Screen Display und dem LogitechTastatur-LCD-Display durch kurze Sensor-Namen gruppiert angezeigt.
+Diese Option erlaubt das Überschreiben der Standardgruppen Namen.
+
+Hinweis:
+- Einige Gruppen-Namen (z. B. Framerate Graph Gruppenname) sind dynamisch und können nicht überschrieben werden.
+- Einzelne Symbol Gruppen-Namen können verwendet werden um Werte ohne Anzeige eines Gruppennamens zu gruppieren.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

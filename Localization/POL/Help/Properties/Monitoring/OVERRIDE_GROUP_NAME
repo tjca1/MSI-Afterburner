@@ -1,0 +1,7 @@
+Zast¹p nazwê grupy
+By default the values displayed in the On-Screen Display and Logitech keyboard LCD display are groupped by short sensor name. This option allows overriding default group names. 
+
+Wskazówki:
+- Some group names (e.g. <Framerate> graph group name) are dynamic and cannot be overriden.
+- Single symbol group names can be used to group values without displaying a group name.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

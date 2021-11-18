@@ -1,0 +1,7 @@
+Bildgröße.
+Wenn eine Video-Aufnahme, mit hoher Auflösung, die PCIE-Bus-Bandbreite zu einem Engpass (bottleneck)werden lässt, wird Ihre Bildwiederholfrequenz begrenzt. Dies wird durch die Menge der zu kopierenden Daten zwischen GPU und CPU ausgelöst.
+In solchen Fällen können Sie die Performance durch die Reduzierung der Bildgröße versuchen zu verbessern.
+Z.B.: Wählen Sie 1 / 2 Bildgröße statt Vollbild, wird der Datenfluss zwischen CPU und GPU um den Faktor 4 schrumpfen. Es hat auch einen Einfluss auf die Leistung der CPU und der Festplatte, da weniger Daten geschrieben/bewegt werden müssen. 
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

@@ -1,0 +1,6 @@
+Ändern der Videoabmessung zu einem Vielfachen von 16
+Einige Drittanbieter-Video-Decoder (z.B.  VirtualDub MJPG Video Decoder) können beim Video decodieren Probleme haben, wenn Breite und Höhe kein Vielfaches von 16 betragen.
+Sie können diese Option aktivieren, um Videoabmessungen für ein Vielfaches von 16 zu ändern, um die Kompatibilität mit Drittanbietern solcher Videobearbeitungs-Anwendungen zu verbessern.
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

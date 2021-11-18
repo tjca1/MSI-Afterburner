@@ -1,0 +1,13 @@
+Tensão auxiliar
+Ajusta tensão auxiliar da GPU principal. Dependendo do modelo da placa de vídeo, a tensão pode ser representada como um valor absoluto ou como uma variação da tensão base. Valores assinalados com um + representam as variações originais de tensão enquanto os valores não assinalados representam o valor absoluto.
+
+Sugestões:
+- A tensão auxiliar alimenta componentes adicionais da placa de vídeo: barramento de memória de vídeo em placas AMD e barramento PCIe em placas NVIDIA. Em termos gerais, é uma tensão extra que permite o aumento das capacidades gerais de overclock.
+- Por razões de segurança, o controle de tensão está bloqueado por padrão. Se você compreende e aceita os riscos de sua utilização, pode desbloqueá-lo nas propriedades gerais.
+- Quando o modo de sincronização entre GPUs semelhasntes estiver habilitado em <Geral>, as alterações nas configurações da placa de vídeo principal serão aplicadas às outras placas similares instaladas no sistema.
+- O controle de tensão está disponível em um númmero limitado de modelos de placas de vídeo que são equipadas com módulo de regulação de tensão programável. Consulte os modelos que suportam a regulação de tensão.
+- Você pode clicar na caixa de texto ao lado e inserir o valor desejado diretamente.
+- Você pode desativar sugestões em <Interface> na aba das propriedades.
+
+
+

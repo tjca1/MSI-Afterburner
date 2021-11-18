@@ -1,0 +1,6 @@
+Grafikkarten synchronisieren
+Mit dieser Option konnen sie entscheiden, ob sie die eingebauten Grafikkarten unabhangig voneinander oder alle gleich konfigurieren wollen. Wenn diese Option aktiviert ist, werden alle Einstellungen der ersten GPU im Hauptfenster auf alle gleichen Grafikkarten ebenso angewandt.
+
+Подсказки:
+- Kriterium fur gleiche Grafikkarten ist, es muss die gleiche PCI DeviceID vorhanden sein. So werden nur gleiche Modelle der Grafikkarte synchronisiert.
+- Sie konnen die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberflache] deaktivieren.

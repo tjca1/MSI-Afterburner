@@ -1,0 +1,9 @@
+Verberge OSD.
+Schnelltaste um Informationen auf dem Bildschirm (OSD) zu verbergen.
+Dies ermöglicht eine Tastenkombination für "On-Screen ausblenden (OSD)" zu definieren.
+
+Hinweis:
+- Einige Tastenkombinationen sind reserviert und können nicht verwendet werden (zB <1 5 >...< >...< Strg> + <1 >...< Strg> + <5> + <strg> <D>) .
+
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

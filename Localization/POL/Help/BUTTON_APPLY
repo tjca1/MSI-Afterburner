@@ -1,0 +1,7 @@
+Zastosuj
+Wprowadza bie¿¹ce ustawienia do g³ównego GPU.
+
+Wskazówki:
+- When GPU settings synchronization mode is enabled in <General> tab in advanced properties, any changes applied to the master GPU are also applied to all similar GPUs installed in the system.
+- Always apply the changes you've made before switching to a new master GPU. Any unapplied GPU settings are lost on new master GPU selection.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.

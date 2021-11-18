@@ -1,0 +1,9 @@
+Lüftergeschwindigkeit .
+Dies ermöglicht die Lüfterdrehzahl der primären Grafikkarte einzustellen.
+
+Hinweis:
+- Wenn Sync-Modus eingestellt ist, werden die eingestellten Werte für alle GPUs angewendet.
+- Nicht alle Grafikkarten unterstützen die Steuerung der Lüftergeschwindigkeit.
+- Sie können, um den Wert feiner einzustellen, ihn mit den Pfeiltasten des Keyboards einstellen.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

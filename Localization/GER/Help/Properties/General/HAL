@@ -1,0 +1,4 @@
+Hardware-Steuerung und Überwachung aktivieren
+Ermöglicht Ihnen die Grafik-Hardware-Steuerung und Monitoring-Funktionalität zu beschränken. Diese Funktion kann nützlich sein, wenn Sie %PRODUCTNAME% nur für die Überwachung der Framerate und VideoCapture-Funktion verwenden wollen, aber nicht riskieren wollen Ihren PC unversehens zu übertakten. Eine Deaktivierung dieser Option beschleunigt auch den Start der Anwendung ein wenig.
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

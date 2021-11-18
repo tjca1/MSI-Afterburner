@@ -1,0 +1,12 @@
+Temperatur Hysterese
+Zeigt und passt die Temperatur Hysterese für den benutzerdefinierten automatischen Lüftersteuerungsmodus an.
+
+- Hysterese kann verwendet werden, um unerwünschte Schwankungen der Lüfter zu reduzieren, um die Kühlungseffizents zu erhöhen.
+- Wenn  Nicht-Null  in der Hysterese  eingegeben ist, stellt der automatische Lüftersteuerungsmodus, den folgenden Algorithmus ein:
+Der letzteTemperaturwert, der die Lüftergeschwindigkeit verändert hat, ist gesperrt.
+Wenn die Temperatur fällt, wird die Lüftergeschwindigkeit nicht verändert, wenn die Differenz zwischen dem gesperrten und dem aktuellen Wert kleiner als der Wert ist welche in der Hysterese eingestellt wird.
+
+Hinweis:
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.
+
+

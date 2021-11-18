@@ -1,0 +1,8 @@
+Hardware Abfragezeitraum.
+Dies passt den Aktualisierungszeitraum der Hardwaremonitoring-Graphen an.
+
+Hinweis:
+- Diese Funktion kann die Leistung beeinflussen, denn jede Veränderung des Abfragezeitraums beeinflußt die CPU Belastung. Wenn Instabilitäten auftreten, versuchen Sie den Abfragezeitraum zu verlängern, um zu erkennen ob die Instabilitäten damit in Zusammenhang stehen. 
+- Sie können die CPU Belastung auch durch verringern der Anzahl der Kurven minimieren.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

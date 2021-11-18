@@ -1,0 +1,7 @@
+Farbe des Graphen
+Klicken Sie auf dieses Feld, um die Farbe des jeweiligen Graphen im Hardware-Monitoring-Fenster anzupassen.
+
+Hinweis:
+- Sie können eine Gruppe von Graphen erstellen, indem Sie mit Rechtsklick auf eine Quelle im Graphen-Hardware-Monitoring-Fenster klicken, und in der Auswahl <Attach> aus dem Kontextmenü dann im Ziel-Graph erstellen. Sie können so viele Graphen in einem Gitter gruppieren wie Sie wollen. 
+- Sie müssen den jeweiligen Parameter unter Hardware-Überwachungskurven aktivieren und markieren, um Zugang zu dieser Option zu erhalten.
+- Um sie synchron für mehrere Graphen zu ändern, können Sie die <Shift>-Taste auf Ihrer Tastatur gedrückt halten, während Sie diese Option ändern.

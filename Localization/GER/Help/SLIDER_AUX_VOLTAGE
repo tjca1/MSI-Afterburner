@@ -1,0 +1,17 @@
+Auxiliary Voltage. 
+Zeigt die Hilfs- Spannung(auxiliary voltage) an.
+Je nachdem, welches Modell einer Grafikkarte Sie besitzen, wird die Spannung als Istwert angezeigt werden, oder ein Offset-Wert der im Vergleich zu den Standard-Spannung Wert steht. 
+Werte mit einem Vorzeichen (+/-) und die Offset-Werte ohne Vorzeichen (+/-) stellen die absolute Spannung dar.
+
+Hinweis:
+- Hilfsspannung erhöht zusätzliche unabhängige Grafik-Elemente: GPU-Speicher-Bus für AMD-Grafikkarten und PCIE-Bus bei Crystal NVIDIA-Grafikkarten.Es ist eigentlich eine zusätzliche Spannung, um das Übertaktungspotenzial der Grafikkarte zu vergrößern.
+- Aus Sicherheitsgründen ist die Spannungskontrolle standardmäßig nicht aktiviert. Wer das Risiko einer Veränderung kennt, kann diese in den erweiterten Einstellungen aktivieren.
+- Wenn Sync-Modus eingestellt ist, werden die eingestellten Werte für alle GPUs angewendet.
+
+- Spannungsregelung ist nur mit bestimmten Grafikkarten mit programmierbaren Spannungsregler bestückt erhältlich. Lesen Sie die Dokumentation um eine vollständige Liste der unterstützten Grafikkarten zu sehen.
+- Um die Spannung zu verändern können den Schieber benutzen oder die Cursertasten auf der Tastatur.
+- Sie können auch direkt in das Anzeigefeld klicken und Ihren Wert direkt eingeben.
+
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.
+

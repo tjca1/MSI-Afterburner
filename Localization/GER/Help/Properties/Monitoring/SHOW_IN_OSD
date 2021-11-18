@@ -1,0 +1,10 @@
+Zeige On-Screen-Einblendung (OSD).
+Dies erlaubt es die ausgewählten Werte auf dem Bildschirm darzustellen.
+
+Hint:
+- Sie müssen die jeweilige Kurve anwählen um diese gezielt einzustellen.
+- Diese Funktion kann auch die Leistung des Systems beeinflussen.
+- Diese Option erfordert  den automatischen Start des zusätzlichen "On-Screen-Display-Server".
+- Bei Problemen mit PunkBuster können Sie die "Stealth"-Box  im zusätzlichen "On-Screen-Display-Server"aktivieren.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

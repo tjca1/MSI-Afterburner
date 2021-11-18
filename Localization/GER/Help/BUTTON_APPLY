@@ -1,0 +1,8 @@
+Übernehmen (Apply).
+Übernimmt die aktuelle Einstellung für die primäre Grafikkarte (GPU).
+
+Hinweis:
+- Wenn Sync-Modus aktiviert ist, gelten diese Änderungen für alle GPUs.
+- Bestätigen Sie ihre eingestellten Werte mit dem Button Übernehmen (apply), sonst gehen Ihre Einstellungen verloren.
+
+- Sie können die Einblendungen der Tipps und Hinweise  in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

@@ -1,0 +1,2 @@
+Einheitliche GPU-Nutzungsüberwachung aktivieren
+Standardmäßig wird im %PRODUCTNAME% der native AMD Hardware-Leistungszähler für die GPU-Nutzung im Graphen anzeigt.Der AMD-eigene Leistung Zähler kann in einige Treibern für Grafikprozessoren (z. B. Sea Islands GPU-Familie) fehlerhaft sein, so dass GPU-Nutzung durch AMD Treiber falsch gemeldet sein kann. In diesem Fall können Sie diese Option aktivieren, um einen alternativen einheitlichen Software-Direct3D-Leistungsindikator im GPU-Nutzung Diagramm anzuzeigen.

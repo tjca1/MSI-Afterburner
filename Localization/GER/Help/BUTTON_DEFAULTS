@@ -1,0 +1,8 @@
+Rückstellung  (Reset).
+Wiederherstellen der Einstellungen der primären Grafikkarte (GPU) auf die Standardwerte.
+
+Hinweis:
+- Wenn der Sync-Modus aktiviert ist, gelten diese Veränderungen bei allen GPU´s .
+- Sie können mit  <strg> + <D> bei der Haupt-GPU die Standardwerte wiederherstellen.
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

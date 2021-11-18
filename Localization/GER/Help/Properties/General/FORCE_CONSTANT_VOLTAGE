@@ -1,0 +1,10 @@
+Erzwinge konstante Spannung
+Einige Spannungsregler (zB Voltera VT1165 und STMicroelectronics L6788A-Serie) unterstützen unabhängige Programmierung der Energieverteilungsprofile(z. B. für 2D-und 3D-Modus)
+Manche Grafikkarten schalten in Energiesparprofile. Dieses kann in einigen Fällen Instabilitäten verursachen. Mit dieser Eistellung zwingen Sie den Prozessor eine konstante Spannung zu verwenden.
+Das unterstützt in einigen Fällen die Stabilität .
+
+
+Hinweis:
+- Ein Neustart ist nötig
+
+- Sie können die Einblendungen der Tipps und Hinweise in den erweiterten Eigenschaften unter [Benutzeroberfläche] deaktivieren.

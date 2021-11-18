@@ -1,0 +1,6 @@
+Synchronizuj ustawienia dla podobnych procesorów graficznych
+Allows synchronized or independent GPU settings adjustment. When this option is enabled all GPU adjustments you're doing in the main application window are also applied to all similar GPUs installed in the system. 
+
+Wskazówki:
+- Similar graphics processors are identified by exact PCI DeviceID matching, so only identical graphics card models can be synchronized.
+- Mo¿esz wy³¹czyæ wskazówki interfejsu u¿ytkownika w ustawieniach na zak³adce <Interfejs u¿ytkownika>.
